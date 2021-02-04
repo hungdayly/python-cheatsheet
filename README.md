@@ -17,3 +17,4 @@
 
 10. [Các kiểu số](09-numbers.md)
 11. [Kiểu chuỗi](10-strings.md)
+12. [Danh sách](11-lists.md)
