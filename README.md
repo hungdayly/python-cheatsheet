@@ -18,3 +18,4 @@
 09. [Các kiểu số](09-numbers.md)
 10. [Kiểu chuỗi](10-strings.md)
 11. [Danh sách](11-lists.md)
+12. [Tuple](12-tuples.md)
