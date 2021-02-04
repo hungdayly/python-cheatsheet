@@ -51,6 +51,4 @@ assert sorted(fruits_dictionary) == ['apple', 'banana', 'cherry', 'pineapple']
 # Có thể xóa một phần tử bằng del
 del fruits_dictionary['pineapple']
 assert list(fruits_dictionary) == ['cherry', 'apple', 'banana']
-
-
 ```
