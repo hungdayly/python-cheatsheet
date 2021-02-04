@@ -22,3 +22,12 @@
 13. [Tập hợp](13-sets.md)
 14. [Từ điển](14-dictionaries.md)
 15. [Chuyển đổi kiểu](15-type-casting.md)
+
+### Các câu lệnh điều khiển
+
+16. [Lệnh if](16-if.md)
+17. [Lệnh for](17-for.md)
+18. [Lệnh while](18-while.md)
+19. [Lệnh try](19-try.md)
+20. [Lệnh break](20-break.md)
+21. [Lệnh continue](21-continue.md)
