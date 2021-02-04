@@ -16,3 +16,4 @@
 ### Các kiểu dữ liệu
 
 10. [Các kiểu số](09-numbers.md)
+11. [Kiểu chuỗi](10-strings.md)
