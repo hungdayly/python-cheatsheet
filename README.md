@@ -20,3 +20,4 @@
 11. [Danh sách](11-lists.md)
 12. [Tuple](12-tuples.md)
 13. [Tập hợp](13-sets.md)
+14. [Từ điển](14-dictionaries.md)
