@@ -9,3 +9,4 @@
 5. [Các toán tử so sánh](05-comparison-operators.md)
 6. [Các toán tử lôgic](06-logical-operators.md)
 7. [Các toán tử đồng nhất](07-identity-operators.md)
+8. [Các toán tử thành viên](08-membership-operators.md)
