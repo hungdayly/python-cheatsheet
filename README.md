@@ -7,3 +7,4 @@
 3. [Các toán tử bitwise](03-bitwise-operators.md)
 4. [Các toán tử gán](04-assignment-operators.md)
 5. [Các toán tử so sánh](05-comparison-operators.md)
+6. [Các toán tử lôgic](06-logical-operators.md)
